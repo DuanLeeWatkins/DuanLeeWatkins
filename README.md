@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼 I'm Duan</h1>
 <h3 align="center">A passionate Software Engineer from Maryland🦀. I am currently working on some side projects during the day and at night I produce music🎹.</h3>
 <img align='right' src='https://media.giphy.com/media/LRHKeI9CeVG2PJBCAZ/giphy.gif' />
-- 🔭 I’m currently working on <a href="https://github.com/duanleewatkins">Duan Lee Watkins</a>.
+- 🔭 I’m currently working on <a href="https://github.com/Beatme">Beatme! The Beat/Instrumental management app</a>.
 
 -📫 How to reach me **leeduan19@gmail.com**
 
