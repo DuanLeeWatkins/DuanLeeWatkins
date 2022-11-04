@@ -5,7 +5,7 @@
 
 -📫 How to reach me **leeduan19@gmail.com**
 
--📙 Check out my resume <a href="https://docs.google.com/document/d/1e_ertZSauHJY8YDH9vyUxnCRX9MAMXn_pOPH8XEAcAk/edit?usp=sharing">here</a>.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
