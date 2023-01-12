@@ -3,7 +3,7 @@
 <img align='right' src='https://media.giphy.com/media/LRHKeI9CeVG2PJBCAZ/giphy.gif' />
 - 🔭 I’m currently working on <a href="https://github.com/DuanLeeWatkins/beatme">Beatme</a>.
 
--📫 How to reach me **leeduan19@gmail.com**
+-📫 How to reach me **duanthedev@gmail.com**
 
 
 
